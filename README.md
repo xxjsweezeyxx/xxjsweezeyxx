@@ -1,3 +1,5 @@
+Just a small time streamer and coding enthusiast trying to create entertaining stuff for people to enjoy!
+
 Creator of *Lord Bottington*, a Discord Bot written in Python using Pycord, Discord wrapper for python.
 + ❗[Invite Lord Bottington to Your Guild](https://discord.com/oauth2/authorize?client_id=1092515783025889383&scope=bot&permissions=0)
 
