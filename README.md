@@ -1,4 +1,6 @@
-Just a small time streamer and coding enthusiast trying to create entertaining stuff for people to enjoy!
+![JSweezey](https://github.com/xxjsweezeyxx/xxjsweezeyxx/assets/133728652/485350c2-c06a-4802-a02c-09d4b40eee40)
+
+Just a small time Twitch streamer and coding enthusiast trying to create entertaining stuff for people to enjoy!
 
 + Creator of *Lord Bottington*, a Discord Bot written in Python using [Pycord](https://guide.pycord.dev/introduction).
   > ❗[Invite Lord Bottington to Your Guild](https://discord.com/oauth2/authorize?client_id=1092515783025889383&scope=bot&permissions=0)
